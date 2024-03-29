@@ -13,7 +13,6 @@ ios/Runner/GeneratedPluginRegistrant.*
 example/macos/Flutter/
 example/linux/flutter/
 
-*.txt
 android/.gradle
 
 .flutter-plugins
@@ -21,5 +20,3 @@ android/.gradle
 flutter_export_environment.sh
 *.lock
 .vscode
-android/gradlew
-android/gradlew.bat
