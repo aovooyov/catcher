@@ -21,12 +21,9 @@ dependencies:
   device_info_plus: ^10.0.1
   device_info_plus_platform_interface: ^7.0.0
   package_info_plus: ^8.0.1
-  mailer: ^6.0.1
   dio: ^5.3.3
-  flutter_mailer: ^2.0.0
   logging: ^1.0.2
   universal_io: ^2.0.4
-  very_good_analysis: ^5.1.0
 
 dev_dependencies:
   surf_lint_rules: ^3.1.0
