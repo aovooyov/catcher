@@ -1,6 +1,6 @@
 name: catcher
 description: Plugin for error catching which provides multiple handlers for dealing with errors when they are not caught by the developer.
-version: 0.8.3
+version: 0.8.4
 topics:
   - error
   - errors
